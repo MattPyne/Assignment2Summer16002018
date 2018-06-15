@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="915083a0-d0cb-4dc6-82ac-86a229a81dfd" name="Default" comment="" />
+    <list default="true" id="915083a0-d0cb-4dc6-82ac-86a229a81dfd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assignment 2 Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assignment 2 Scene.unity" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MovePlayer.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MovePlayer.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
@@ -27,18 +30,35 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="HealthBarBehavior.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <marker date="1529090458529" expanded="false" signature="6:78" ph="..." />
+                <marker date="1529090458529" expanded="true" signature="148:542" ph="{...}" />
+                <marker date="1529090458529" expanded="true" signature="233:296" ph="{...}" />
+                <marker date="1529090458529" expanded="true" signature="320:540" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" />
       </list>
     </option>
   </component>
@@ -51,7 +71,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -114,12 +134,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529087151206</updated>
-      <workItem from="1529087153759" duration="1813000" />
+      <workItem from="1529087153759" duration="2866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1813000" />
+    <option name="totallyTimeSpent" value="2866000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -131,7 +151,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -177,6 +197,19 @@
             <marker date="1529088763444" expanded="true" signature="336:394" ph="{...}" />
             <marker date="1529088763444" expanded="true" signature="449:664" ph="{...}" />
             <marker date="1529088763444" expanded="true" signature="489:527" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <marker date="1529090458529" expanded="false" signature="6:78" ph="..." />
+            <marker date="1529090458529" expanded="true" signature="148:542" ph="{...}" />
+            <marker date="1529090458529" expanded="true" signature="233:296" ph="{...}" />
+            <marker date="1529090458529" expanded="true" signature="320:540" ph="{...}" />
           </folding>
         </state>
       </provider>
