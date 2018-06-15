@@ -12,6 +12,8 @@
           <e p="Player.cs" t="Include" />
           <e p="PlayerBehavior.cs" t="Include" />
           <e p="PlayerTrigger.cs" t="Include" />
+          <e p="PowerUpDownBehavior.cs" t="Include" />
+          <e p="PowerUpOrDownBase.cs" t="Include" />
         </e>
       </e>
       <e p="Assignment2.sln" t="IncludeFlat" />

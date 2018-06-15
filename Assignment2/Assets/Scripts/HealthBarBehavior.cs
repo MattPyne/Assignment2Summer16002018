@@ -12,6 +12,7 @@ public class HealthBarBehavior : MonoBehaviour
 
 	private void Start()
 	{
+		
 		HealthImage.GetComponent<Image>().color = Color.green;
 	}
 
