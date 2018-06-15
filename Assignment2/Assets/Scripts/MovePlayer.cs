@@ -32,3 +32,4 @@ public class MovePlayer : MonoBehaviour
 		controller.Move(newPosition * Time.deltaTime);
 	}
 }
+//the camera position keeps putting either the horizontal or vertical controls backwards

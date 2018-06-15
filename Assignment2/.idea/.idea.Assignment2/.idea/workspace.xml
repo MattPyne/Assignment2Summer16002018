@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915083a0-d0cb-4dc6-82ac-86a229a81dfd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Assignment 2 Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assignment 2 Scene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,13 +17,13 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding>
-                <marker date="1529099886828" expanded="false" signature="6:78" ph="..." />
-                <marker date="1529099886828" expanded="true" signature="119:719" ph="{...}" />
-                <marker date="1529099886828" expanded="true" signature="336:394" ph="{...}" />
-                <marker date="1529099886828" expanded="true" signature="449:717" ph="{...}" />
-                <marker date="1529099886828" expanded="true" signature="489:527" ph="{...}" />
+                <marker date="1529100581708" expanded="false" signature="6:78" ph="..." />
+                <marker date="1529100581708" expanded="true" signature="119:719" ph="{...}" />
+                <marker date="1529100581708" expanded="true" signature="336:394" ph="{...}" />
+                <marker date="1529100581708" expanded="true" signature="449:717" ph="{...}" />
+                <marker date="1529100581708" expanded="true" signature="489:527" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -262,12 +261,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529087151206</updated>
-      <workItem from="1529087153759" duration="10691000" />
+      <workItem from="1529087153759" duration="11382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10691000" />
+    <option name="totallyTimeSpent" value="11382000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -436,13 +435,13 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding>
-            <marker date="1529099886828" expanded="false" signature="6:78" ph="..." />
-            <marker date="1529099886828" expanded="true" signature="119:719" ph="{...}" />
-            <marker date="1529099886828" expanded="true" signature="336:394" ph="{...}" />
-            <marker date="1529099886828" expanded="true" signature="449:717" ph="{...}" />
-            <marker date="1529099886828" expanded="true" signature="489:527" ph="{...}" />
+            <marker date="1529100581708" expanded="false" signature="6:78" ph="..." />
+            <marker date="1529100581708" expanded="true" signature="119:719" ph="{...}" />
+            <marker date="1529100581708" expanded="true" signature="336:394" ph="{...}" />
+            <marker date="1529100581708" expanded="true" signature="449:717" ph="{...}" />
+            <marker date="1529100581708" expanded="true" signature="489:527" ph="{...}" />
           </folding>
         </state>
       </provider>
