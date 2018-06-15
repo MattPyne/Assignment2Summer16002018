@@ -10,6 +10,7 @@
           <e p="EvilPlayerMoveBehavior.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="HealthBarBehavior.cs" t="Include" />
+          <e p="IfStatements.cs" t="Include" />
           <e p="MovePlayer.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="PlayerBehavior.cs" t="Include" />

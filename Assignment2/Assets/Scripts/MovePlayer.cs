@@ -10,6 +10,8 @@ public class MovePlayer : MonoBehaviour
 	public float Speed = 10.0f;
 	public float Gravity = 9.81f;
 	public float JumpSpeed = 10.0f;
+
+	public bool CanRun = true;
 	
 
 	// Use this for initialization
@@ -20,16 +22,18 @@ public class MovePlayer : MonoBehaviour
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKeyDown(KeyCode.Space) && controller.isGrounded)
 		{
 			newPosition.y = JumpSpeed;
 		}
 
 		
 		newPosition.y -= Gravity;
-		newPosition.x = Speed*Input.GetAxis("Vertical");
-		newPosition.z = Speed * Input.GetAxis("Horizontal");
+		if (CanRun)
+		{
+			newPosition.x = Speed*Input.GetAxis("Vertical");
+		}
 		controller.Move(newPosition * Time.deltaTime);
 	}
 }
-//the camera position keeps putting either the horizontal or vertical controls backwards
+//the camera position keeps putting either the horizontal or vertical controls backwards currently its the horizontal controls

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915083a0-d0cb-4dc6-82ac-86a229a81dfd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,17 +15,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MovePlayer.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MovePlayer.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            <state relative-caret-position="480">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
               <folding>
-                <marker date="1529100581708" expanded="false" signature="6:78" ph="..." />
-                <marker date="1529100581708" expanded="true" signature="119:719" ph="{...}" />
-                <marker date="1529100581708" expanded="true" signature="336:394" ph="{...}" />
-                <marker date="1529100581708" expanded="true" signature="449:717" ph="{...}" />
-                <marker date="1529100581708" expanded="true" signature="489:527" ph="{...}" />
+                <marker date="1529103008510" expanded="false" signature="6:78" ph="..." />
+                <marker date="1529103008510" expanded="true" signature="119:716" ph="{...}" />
+                <marker date="1529103008510" expanded="true" signature="365:423" ph="{...}" />
+                <marker date="1529103008510" expanded="true" signature="478:714" ph="{...}" />
+                <marker date="1529103008510" expanded="true" signature="518:556" ph="{...}" />
+                <marker date="1529103008510" expanded="true" signature="602:662" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IfStatements.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/IfStatements.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <marker date="1529105047716" expanded="false" signature="6:107" ph="..." />
+                <marker date="1529105047716" expanded="true" signature="170:342" ph="{...}" />
+                <marker date="1529105047716" expanded="true" signature="245:340" ph="{...}" />
+                <marker date="1529105047716" expanded="true" signature="269:299" ph="{...}" />
+                <marker date="1529105047716" expanded="true" signature="306:337" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -142,35 +161,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FloatData.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-              <folding>
-                <marker date="1529090560933" expanded="false" signature="6:78" ph="..." />
-                <marker date="1529090560933" expanded="true" signature="139:179" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerTrigger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EvilPlayerMoveBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMoveBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpOrDownBase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -186,6 +193,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/EvilPlayerMoveBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMoveBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IfStatements.cs" />
       </list>
     </option>
   </component>
@@ -198,7 +206,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -261,12 +269,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529087151206</updated>
-      <workItem from="1529087153759" duration="11382000" />
+      <workItem from="1529087153759" duration="14822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11382000" />
+    <option name="totallyTimeSpent" value="14822000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,14 +442,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        <state relative-caret-position="480">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding>
-            <marker date="1529100581708" expanded="false" signature="6:78" ph="..." />
-            <marker date="1529100581708" expanded="true" signature="119:719" ph="{...}" />
-            <marker date="1529100581708" expanded="true" signature="336:394" ph="{...}" />
-            <marker date="1529100581708" expanded="true" signature="449:717" ph="{...}" />
-            <marker date="1529100581708" expanded="true" signature="489:527" ph="{...}" />
+            <marker date="1529103008510" expanded="false" signature="6:78" ph="..." />
+            <marker date="1529103008510" expanded="true" signature="119:716" ph="{...}" />
+            <marker date="1529103008510" expanded="true" signature="365:423" ph="{...}" />
+            <marker date="1529103008510" expanded="true" signature="478:714" ph="{...}" />
+            <marker date="1529103008510" expanded="true" signature="518:556" ph="{...}" />
+            <marker date="1529103008510" expanded="true" signature="602:662" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/IfStatements.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <marker date="1529105047716" expanded="false" signature="6:107" ph="..." />
+            <marker date="1529105047716" expanded="true" signature="170:342" ph="{...}" />
+            <marker date="1529105047716" expanded="true" signature="245:340" ph="{...}" />
+            <marker date="1529105047716" expanded="true" signature="269:299" ph="{...}" />
+            <marker date="1529105047716" expanded="true" signature="306:337" ph="{...}" />
           </folding>
         </state>
       </provider>
