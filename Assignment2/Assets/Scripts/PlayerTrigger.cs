@@ -16,5 +16,6 @@ public class PlayerTrigger : MonoBehaviour
 	void OnTriggerEnter ()
 	{
 		HealthLevel.Value -= EvilPower.Value;
+		
 	}
 }
