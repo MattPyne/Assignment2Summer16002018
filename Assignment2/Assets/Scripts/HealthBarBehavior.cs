@@ -18,11 +18,10 @@ public class HealthBarBehavior : MonoBehaviour
 	private void Update()
 	{
 		HealthImage.fillAmount = HealthLevel.Value;
-		if (HealthLevel.Value < 0.5)
+		if (HealthLevel.Value < 0.66)
 			HealthImage.GetComponent<Image>().color = Color.yellow;
 
-		if (HealthLevel.Value < 0.33) ;
+		if (HealthLevel.Value < 0.33)
 			HealthImage.GetComponent<Image>().color = Color.red;
-
 	}
 }

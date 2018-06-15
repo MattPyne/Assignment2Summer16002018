@@ -1,16 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+[CreateAssetMenu]
+public class Player : ScriptableObject
+{
 
-public class Player : MonoBehaviour {
+	public float Health = 1.0f;
+	public float Ammo = 1.0f;
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }

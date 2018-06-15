@@ -9,6 +9,7 @@
           <e p="FloatData.cs" t="Include" />
           <e p="HealthBarBehavior.cs" t="Include" />
           <e p="MovePlayer.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
           <e p="PlayerBehavior.cs" t="Include" />
           <e p="PlayerTrigger.cs" t="Include" />
         </e>
