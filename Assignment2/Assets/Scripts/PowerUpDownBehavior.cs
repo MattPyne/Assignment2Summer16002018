@@ -5,6 +5,6 @@ using UnityEngine;
 public class PowerUpDownBehavior : MonoBehaviour
 {
 
-	public FloatData EvilPower;
+	public FloatData HealthLevel;
 	
 }

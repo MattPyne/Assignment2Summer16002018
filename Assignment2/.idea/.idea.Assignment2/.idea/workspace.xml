@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915083a0-d0cb-4dc6-82ac-86a229a81dfd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerTrigger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerTrigger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assignment 2 Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assignment 2 Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Health.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Health.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,14 +46,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PowerUpDownBehavior.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PowerUpDownBehavior.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <marker date="1529095553789" expanded="false" signature="6:78" ph="..." />
-                <marker date="1529095553789" expanded="true" signature="128:164" ph="{...}" />
+                <marker date="1529096910103" expanded="false" signature="6:78" ph="..." />
+                <marker date="1529096910103" expanded="true" signature="128:166" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EvilPlayerMoveBehavior.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EvilPlayerMoveBehavior.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <marker date="1529098183211" expanded="false" signature="6:78" ph="..." />
+                <marker date="1529098183211" expanded="true" signature="127:530" ph="{...}" />
+                <marker date="1529098183211" expanded="true" signature="256:528" ph="{...}" />
+                <marker date="1529098183211" expanded="true" signature="313:477" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnemyMoveBehavior.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMoveBehavior.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <marker date="1529098436599" expanded="false" signature="6:78" ph="..." />
+                <marker date="1529098436599" expanded="true" signature="127:530" ph="{...}" />
+                <marker date="1529098436599" expanded="true" signature="256:528" ph="{...}" />
+                <marker date="1529098436599" expanded="true" signature="313:477" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -135,7 +168,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EvilPlayerMoveBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMoveBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpOrDownBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
@@ -152,6 +187,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EvilPlayerMoveBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMoveBehavior.cs" />
       </list>
     </option>
   </component>
@@ -227,12 +264,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529087151206</updated>
-      <workItem from="1529087153759" duration="7662000" />
+      <workItem from="1529087153759" duration="10425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7662000" />
+    <option name="totallyTimeSpent" value="10425000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,6 +387,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpOrDownBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <marker date="1529094192700" expanded="false" signature="6:78" ph="..." />
+            <marker date="1529094192700" expanded="true" signature="129:324" ph="{...}" />
+            <marker date="1529094192700" expanded="true" signature="227:317" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerTrigger.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -363,25 +412,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpOrDownBase.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="120">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <marker date="1529094192700" expanded="false" signature="6:78" ph="..." />
-            <marker date="1529094192700" expanded="true" signature="129:324" ph="{...}" />
-            <marker date="1529094192700" expanded="true" signature="227:317" ph="{...}" />
+            <marker date="1529096910103" expanded="false" signature="6:78" ph="..." />
+            <marker date="1529096910103" expanded="true" signature="128:166" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EvilPlayerMoveBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="315">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <marker date="1529095553789" expanded="false" signature="6:78" ph="..." />
-            <marker date="1529095553789" expanded="true" signature="128:164" ph="{...}" />
+            <marker date="1529098183211" expanded="false" signature="6:78" ph="..." />
+            <marker date="1529098183211" expanded="true" signature="127:530" ph="{...}" />
+            <marker date="1529098183211" expanded="true" signature="256:528" ph="{...}" />
+            <marker date="1529098183211" expanded="true" signature="313:477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMoveBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1529098436599" expanded="false" signature="6:78" ph="..." />
+            <marker date="1529098436599" expanded="true" signature="127:530" ph="{...}" />
+            <marker date="1529098436599" expanded="true" signature="256:528" ph="{...}" />
+            <marker date="1529098436599" expanded="true" signature="313:477" ph="{...}" />
           </folding>
         </state>
       </provider>
