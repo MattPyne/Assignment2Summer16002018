@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915083a0-d0cb-4dc6-82ac-86a229a81dfd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Assignment 2 Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assignment 2 Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Health.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Health.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,17 +14,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MovePlayer.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MovePlayer.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+              <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
               <folding>
-                <marker date="1529093411427" expanded="false" signature="6:78" ph="..." />
-                <marker date="1529093411427" expanded="true" signature="119:719" ph="{...}" />
-                <marker date="1529093411427" expanded="true" signature="336:394" ph="{...}" />
-                <marker date="1529093411427" expanded="true" signature="449:717" ph="{...}" />
-                <marker date="1529093411427" expanded="true" signature="489:527" ph="{...}" />
+                <marker date="1529099886828" expanded="false" signature="6:78" ph="..." />
+                <marker date="1529099886828" expanded="true" signature="119:719" ph="{...}" />
+                <marker date="1529099886828" expanded="true" signature="336:394" ph="{...}" />
+                <marker date="1529099886828" expanded="true" signature="449:717" ph="{...}" />
+                <marker date="1529099886828" expanded="true" signature="489:527" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -74,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EnemyMoveBehavior.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EnemyMoveBehavior.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMoveBehavior.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -181,7 +179,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpOrDownBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpOrDownBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" />
@@ -189,6 +186,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EvilPlayerMoveBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMoveBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" />
       </list>
     </option>
   </component>
@@ -264,12 +262,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529087151206</updated>
-      <workItem from="1529087153759" duration="10425000" />
+      <workItem from="1529087153759" duration="10691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10425000" />
+    <option name="totallyTimeSpent" value="10691000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,20 +332,6 @@
           <folding>
             <marker date="1529090560933" expanded="false" signature="6:78" ph="..." />
             <marker date="1529090560933" expanded="true" signature="139:179" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
-          <folding>
-            <marker date="1529093411427" expanded="false" signature="6:78" ph="..." />
-            <marker date="1529093411427" expanded="true" signature="119:719" ph="{...}" />
-            <marker date="1529093411427" expanded="true" signature="336:394" ph="{...}" />
-            <marker date="1529093411427" expanded="true" signature="449:717" ph="{...}" />
-            <marker date="1529093411427" expanded="true" signature="489:527" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -445,6 +429,20 @@
             <marker date="1529098436599" expanded="true" signature="127:530" ph="{...}" />
             <marker date="1529098436599" expanded="true" signature="256:528" ph="{...}" />
             <marker date="1529098436599" expanded="true" signature="313:477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+          <folding>
+            <marker date="1529099886828" expanded="false" signature="6:78" ph="..." />
+            <marker date="1529099886828" expanded="true" signature="119:719" ph="{...}" />
+            <marker date="1529099886828" expanded="true" signature="336:394" ph="{...}" />
+            <marker date="1529099886828" expanded="true" signature="449:717" ph="{...}" />
+            <marker date="1529099886828" expanded="true" signature="489:527" ph="{...}" />
           </folding>
         </state>
       </provider>
