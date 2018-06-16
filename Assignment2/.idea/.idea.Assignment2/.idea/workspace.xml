@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915083a0-d0cb-4dc6-82ac-86a229a81dfd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DoSubrtaction.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DoSubrtaction.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DoSubrtaction.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
               <folding>
                 <marker date="1529106027619" expanded="false" signature="6:78" ph="..." />
                 <marker date="1529106027619" expanded="true" signature="125:282" ph="{...}" />
@@ -118,16 +118,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HealthBarBehavior.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HealthBarBehavior.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="510">
+              <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
               <folding>
-                <marker date="1529094911665" expanded="false" signature="6:78" ph="..." />
-                <marker date="1529094911665" expanded="true" signature="148:557" ph="{...}" />
-                <marker date="1529094911665" expanded="true" signature="233:299" ph="{...}" />
-                <marker date="1529094911665" expanded="true" signature="323:555" ph="{...}" />
+                <marker date="1529107442269" expanded="true" signature="6:173" ph="..." />
+                <marker date="1529107442269" expanded="true" signature="221:698" ph="{...}" />
+                <marker date="1529107442269" expanded="true" signature="306:372" ph="{...}" />
+                <marker date="1529107442269" expanded="true" signature="396:694" ph="{...}" />
+                <marker date="1529107442269" expanded="true" signature="656:691" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -188,7 +189,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpOrDownBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpOrDownBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EvilPlayerMoveBehavior.cs" />
@@ -197,6 +197,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DoSubtraction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DoSubrtaction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" />
       </list>
     </option>
   </component>
@@ -272,12 +273,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529087151206</updated>
-      <workItem from="1529087153759" duration="15691000" />
+      <workItem from="1529087153759" duration="17082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15691000" />
+    <option name="totallyTimeSpent" value="17082000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,19 +365,6 @@
           <folding>
             <marker date="1529092223986" expanded="false" signature="6:78" ph="..." />
             <marker date="1529092223986" expanded="true" signature="123:155" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <marker date="1529094911665" expanded="false" signature="6:78" ph="..." />
-            <marker date="1529094911665" expanded="true" signature="148:557" ph="{...}" />
-            <marker date="1529094911665" expanded="true" signature="233:299" ph="{...}" />
-            <marker date="1529094911665" expanded="true" signature="323:555" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -482,12 +470,26 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DoSubrtaction.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding>
             <marker date="1529106027619" expanded="false" signature="6:78" ph="..." />
             <marker date="1529106027619" expanded="true" signature="125:282" ph="{...}" />
             <marker date="1529106027619" expanded="true" signature="175:211" ph="{...}" />
             <marker date="1529106027619" expanded="true" signature="245:280" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          <folding>
+            <marker date="1529107442269" expanded="true" signature="6:173" ph="..." />
+            <marker date="1529107442269" expanded="true" signature="221:698" ph="{...}" />
+            <marker date="1529107442269" expanded="true" signature="306:372" ph="{...}" />
+            <marker date="1529107442269" expanded="true" signature="396:694" ph="{...}" />
+            <marker date="1529107442269" expanded="true" signature="656:691" ph="{...}" />
           </folding>
         </state>
       </provider>

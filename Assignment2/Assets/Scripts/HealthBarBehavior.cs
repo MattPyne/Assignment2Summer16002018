@@ -1,7 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Networking.PlayerConnection;
 using UnityEngine.UI;
+using UnityEngine.XR.WSA;
 
 public class HealthBarBehavior : MonoBehaviour
 {
@@ -24,5 +26,11 @@ public class HealthBarBehavior : MonoBehaviour
 
 		if (HealthLevel.Value < 0.33)
 			HealthImage.GetComponent<Image>().color = Color.red;
+
+		if (HealthLevel.Value <= 0)
+		{
+			Debug.Log("GAME OVER");
+		}
 	}
+	
 }
