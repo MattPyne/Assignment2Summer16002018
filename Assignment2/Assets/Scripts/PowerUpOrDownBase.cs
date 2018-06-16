@@ -12,6 +12,7 @@ public class PowerUpOrDownBase : ScriptableObject
     {
         AnyPlayer.Health += PowerLevel;
         AnyPlayer.Ammo += PowerLevel;
+        AnyPlayer.Jump += PowerLevel;
     }
     
 }

@@ -6,6 +6,7 @@ public class PlayerTrigger : MonoBehaviour
 {
 	public FloatData HealthLevel;
 	public FloatData EvilPower;
+	public FloatData JumpHeight;
 
 	// Use this for initialization
 	void Start () {
@@ -16,6 +17,6 @@ public class PlayerTrigger : MonoBehaviour
 	void OnTriggerEnter ()
 	{
 		HealthLevel.Value -= EvilPower.Value;
-		
+
 	}
 }

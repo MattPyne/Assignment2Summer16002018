@@ -1,10 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+[CreateAssetMenu]
+public class JumpPowerUP : ScriptableObject {
 
-public class PowerUpDownBehavior : MonoBehaviour
-{
-
-	public FloatData PowerUp;
 
 }
