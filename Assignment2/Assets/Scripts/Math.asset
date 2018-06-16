@@ -11,6 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5defabb572be28d4a83f485dc35e6f2f, type: 3}
   m_Name: Math
   m_EditorClassIdentifier: 
-  a: 1
+  a: 2
   b: 10
   c: 12
