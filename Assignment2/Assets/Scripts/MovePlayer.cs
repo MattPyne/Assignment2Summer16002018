@@ -32,6 +32,7 @@ public class MovePlayer : MonoBehaviour
 		if (CanRun)
 		{
 			newPosition.x = Speed*Input.GetAxis("Vertical");
+			newPosition.z = Speed * Input.GetAxis("Horizontal");
 		}
 		controller.Move(newPosition * Time.deltaTime);
 	}
