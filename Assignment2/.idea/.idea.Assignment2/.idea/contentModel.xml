@@ -11,6 +11,7 @@
           <e p="DoSubrtaction.cs" t="Include" />
           <e p="EnemyMoveBehavior.cs" t="Include" />
           <e p="EvilPlayerMoveBehavior.cs" t="Include" />
+          <e p="FireAmmo.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="HealthBarBehavior.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
@@ -179,6 +180,7 @@
           </e>
         </e>
         <e p="Weapons" t="Include">
+          <e p="Ammo.cs" t="Include" />
           <e p="WeaponPickup.cs" t="Include" />
           <e p="WeaponsCollection.cs" t="Include" />
         </e>
