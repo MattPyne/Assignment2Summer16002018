@@ -25,6 +25,7 @@
           <e p="PowerUpOrDownBase.cs" t="Include" />
           <e p="WeaponObjects.cs" t="Include" />
           <e p="Weapons.cs" t="Include" />
+          <e p="WhileLoops.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
           <e p="CrossPlatformInput" t="Include">

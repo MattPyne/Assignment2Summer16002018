@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="915083a0-d0cb-4dc6-82ac-86a229a81dfd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AssetOrObjects/Ammo.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AssetOrObjects/Ammo.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Ammo Object Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Ammo Object Scene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ammo.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ammo.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Weapons/Ammo.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -82,6 +79,37 @@
                 <marker date="1530498771243" expanded="true" signature="113:484" ph="{...}" />
                 <marker date="1530498771243" expanded="true" signature="236:338" ph="{...}" />
                 <marker date="1530498771243" expanded="true" signature="384:479" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FireAmmo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <marker date="1530499554911" expanded="false" signature="6:78" ph="..." />
+                <marker date="1530499554911" expanded="true" signature="117:246" ph="{...}" />
+                <marker date="1530499554911" expanded="true" signature="169:244" ph="{...}" />
+                <marker date="1530499554911" expanded="true" signature="211:241" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WhileLoops.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhileLoops.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+              <folding>
+                <marker date="1530552225925" expanded="false" signature="6:78" ph="..." />
+                <marker date="1530552225925" expanded="true" signature="141:486" ph="{...}" />
+                <marker date="1530552225925" expanded="true" signature="207:243" ph="{...}" />
+                <marker date="1530552225925" expanded="true" signature="266:484" ph="{...}" />
+                <marker date="1530552225925" expanded="true" signature="285:388" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -134,6 +162,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthBarBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Weapons/Ammo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EvilPlayerMoveBehavior.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Weapons/WeaponPickUp.cs" root0="FORCE_HIGHLIGHTING" />
@@ -143,6 +172,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoSubrtaction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/JumpPowerUP.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WhileLoops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponObjects.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMoveBehavior.cs" root0="FORCE_HIGHLIGHTING" />
@@ -173,6 +203,8 @@
         <option value="$PROJECT_DIR$/Assets/Weapons/WeaponsCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Weapons/Ammo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WhileLoops.cs" />
       </list>
     </option>
   </component>
@@ -256,12 +288,12 @@
       <workItem from="1529087153759" duration="19880000" />
       <workItem from="1529192828536" duration="2083000" />
       <workItem from="1529203182154" duration="7977000" />
-      <workItem from="1530496000441" duration="3362000" />
+      <workItem from="1530496000441" duration="6383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33302000" />
+    <option name="totallyTimeSpent" value="36323000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,30 +341,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Weapons/WeaponPickUp.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-          <folding>
-            <marker date="1529513495509" expanded="false" signature="6:78" ph="..." />
-            <marker date="1529513495509" expanded="true" signature="121:280" ph="{...}" />
-            <marker date="1529513495509" expanded="true" signature="236:278" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WeaponObjects.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <marker date="1529452725216" expanded="false" signature="6:78" ph="..." />
-            <marker date="1529452725216" expanded="true" signature="143:252" ph="{...}" />
-            <marker date="1529452725216" expanded="true" signature="210:250" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/EvilPlayerMoveBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -781,6 +789,33 @@
             <marker date="1530498771243" expanded="true" signature="113:484" ph="{...}" />
             <marker date="1530498771243" expanded="true" signature="236:338" ph="{...}" />
             <marker date="1530498771243" expanded="true" signature="384:479" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1530499554911" expanded="false" signature="6:78" ph="..." />
+            <marker date="1530499554911" expanded="true" signature="117:246" ph="{...}" />
+            <marker date="1530499554911" expanded="true" signature="169:244" ph="{...}" />
+            <marker date="1530499554911" expanded="true" signature="211:241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhileLoops.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <marker date="1530552225925" expanded="false" signature="6:78" ph="..." />
+            <marker date="1530552225925" expanded="true" signature="141:486" ph="{...}" />
+            <marker date="1530552225925" expanded="true" signature="207:243" ph="{...}" />
+            <marker date="1530552225925" expanded="true" signature="266:484" ph="{...}" />
+            <marker date="1530552225925" expanded="true" signature="285:388" ph="{...}" />
           </folding>
         </state>
       </provider>
