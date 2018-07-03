@@ -11,7 +11,7 @@ public class FireAmmo : MonoBehaviour
 
 	private void Update()
 	{
-		if (Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKeyDown(KeyCode.Mouse0))
 		{
 			for (int i = 0; i < Ammo.Count; i++)
 			{
