@@ -223,7 +223,6 @@ GameObject:
   - component: {fileID: 1234359282}
   - component: {fileID: 1234359281}
   - component: {fileID: 1234359280}
-  - component: {fileID: 1234359279}
   - component: {fileID: 1234359284}
   m_Layer: 0
   m_Name: Cylinder
@@ -232,24 +231,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1234359279
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1234359278}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ebdc688019c396f45950e801a4791d01, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  WeaponObjectses:
-  - {fileID: 11400000, guid: a03580d55e18e454e89a505addd92a72, type: 2}
-  - {fileID: 11400000, guid: ab83f1f6a1af16344b5d7e1ea9a8f2a3, type: 2}
-  - {fileID: 11400000, guid: dc1ef6fca51997e488f24c9f88f00f20, type: 2}
-  - {fileID: 11400000, guid: 40583d202bcb13049a0b3fb9d40e1c97, type: 2}
-  - {fileID: 11400000, guid: 541091e1ce6836148b2cf2d402a97d8a, type: 2}
-  CurrentWeapon: 0
 --- !u!136 &1234359280
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -312,7 +293,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1234359278}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 453.15, y: 150.2, z: 0}
+  m_LocalPosition: {x: 450.9, y: 150.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
