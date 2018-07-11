@@ -7,6 +7,11 @@
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="AI Folder" t="Include">
+          <e p="AIControll.cs" t="Include" />
+          <e p="AIMovement.cs" t="Include" />
+          <e p="MoveEneny.cs" t="Include" />
+        </e>
         <e p="GunFolder" t="Include">
           <e p="GunCollection.cs" t="Include" />
           <e p="GunObjects.cs" t="Include" />

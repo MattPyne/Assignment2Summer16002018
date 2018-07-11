@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="915083a0-d0cb-4dc6-82ac-86a229a81dfd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Assignment 3 Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Assignment 3 Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GunCollection.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GunCollection.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GunObjects.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GunObjects.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Weapons/Ammo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Weapons/Ammo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Weapons/ProjectileBetter.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Weapons/ProjectileBetter.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Weapons/ProjectileStandard.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Weapons/ProjectileStandard.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Weapons/Ammo.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <marker date="1530584670468" expanded="true" signature="6:108" ph="..." />
                 <marker date="1530584670468" expanded="true" signature="144:675" ph="{...}" />
@@ -101,17 +91,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WhileLoops.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WhileLoops.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhileLoops.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <marker date="1530552225925" expanded="false" signature="6:100" ph="..." />
                 <marker date="1530552225925" expanded="true" signature="141:486" ph="{...}" />
                 <marker date="1530552225925" expanded="true" signature="207:243" ph="{...}" />
                 <marker date="1530552225925" expanded="true" signature="266:484" ph="{...}" />
                 <marker date="1530552225925" expanded="true" signature="285:388" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AIControll.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/AI Folder/AIControll.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1531327834921" expanded="false" signature="6:119" ph="..." />
+                <marker date="1531327834921" expanded="true" signature="181:348" ph="{...}" />
+                <marker date="1531327834921" expanded="true" signature="277:344" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -158,6 +161,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/JumpPowerUP.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WeaponObjects.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpOrDownBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AI Folder/AIControll.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -189,6 +193,8 @@
         <option value="$PROJECT_DIR$/Assets/Weapons/WeaponPickUp.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs" />
         <option value="$PROJECT_DIR$/Assets/Weapons/Ammo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIControll.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AIMovement.cs" />
       </list>
     </option>
   </component>
@@ -201,7 +207,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="97" />
     <option name="y" value="71" />
     <option name="width" value="1750" />
@@ -273,12 +279,12 @@
       <workItem from="1529192828536" duration="2083000" />
       <workItem from="1529203182154" duration="7977000" />
       <workItem from="1530496000441" duration="6402000" />
-      <workItem from="1530572534018" duration="7991000" />
+      <workItem from="1530572534018" duration="9144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44333000" />
+    <option name="totallyTimeSpent" value="45486000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,37 +332,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Weapons/WeaponsCollection.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <marker date="1529515236112" expanded="false" signature="6:78" ph="..." />
-            <marker date="1529515236112" expanded="true" signature="148:418" ph="{...}" />
-            <marker date="1529515236112" expanded="true" signature="239:416" ph="{...}" />
-            <marker date="1529515236112" expanded="true" signature="298:413" ph="{...}" />
-            <marker date="1529515236112" expanded="true" signature="353:409" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1530497255602" expanded="false" signature="6:78" ph="..." />
-            <marker date="1530497255602" expanded="true" signature="139:165" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpOrDownBase.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -678,7 +653,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Weapons/Ammo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
             <marker date="1530584670468" expanded="true" signature="6:108" ph="..." />
             <marker date="1530584670468" expanded="true" signature="144:675" ph="{...}" />
@@ -706,13 +681,38 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhileLoops.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <marker date="1530552225925" expanded="false" signature="6:100" ph="..." />
             <marker date="1530552225925" expanded="true" signature="141:486" ph="{...}" />
             <marker date="1530552225925" expanded="true" signature="207:243" ph="{...}" />
             <marker date="1530552225925" expanded="true" signature="266:484" ph="{...}" />
             <marker date="1530552225925" expanded="true" signature="285:388" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AIControll.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AIMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AI Folder/AIControll.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1531327834921" expanded="false" signature="6:119" ph="..." />
+            <marker date="1531327834921" expanded="true" signature="181:348" ph="{...}" />
+            <marker date="1531327834921" expanded="true" signature="277:344" ph="{...}" />
           </folding>
         </state>
       </provider>
