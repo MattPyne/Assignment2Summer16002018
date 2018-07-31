@@ -23,6 +23,7 @@
           <e p="Guns.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="CoinUI.cs" t="Include" />
           <e p="DoSubrtaction.cs" t="Include" />
           <e p="EnemyMoveBehavior.cs" t="Include" />
           <e p="EvilPlayerMoveBehavior.cs" t="Include" />
@@ -30,6 +31,7 @@
           <e p="FloatData.cs" t="Include" />
           <e p="HealthBarBehavior.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="JumpPowerUP.cs" t="Include" />
           <e p="Level.cs" t="Include" />
           <e p="MainMenuBehavior.cs" t="Include" />
