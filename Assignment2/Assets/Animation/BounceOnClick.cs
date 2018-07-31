@@ -20,4 +20,10 @@ public class BounceOnClick : MonoBehaviour
     {
         anims.SetTrigger("CanBounce");
     }
+
+    public void EndAnims()
+    {
+        GetComponent<MeshRenderer>().enabled = false;
+        GetComponent<SphereCollider>().enabled = false;
+    }
 }
