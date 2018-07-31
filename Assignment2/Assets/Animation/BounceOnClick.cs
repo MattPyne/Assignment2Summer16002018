@@ -15,4 +15,9 @@ public class BounceOnClick : MonoBehaviour
     {
         anims.SetTrigger("CanBounce");
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        anims.SetTrigger("CanBounce");
+    }
 }

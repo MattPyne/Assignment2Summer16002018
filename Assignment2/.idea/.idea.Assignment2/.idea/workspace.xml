@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915083a0-d0cb-4dc6-82ac-86a229a81dfd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animation/BounceOnClick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animation/BounceOnClick.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -107,13 +106,14 @@
       <file leaf-file-name="BounceOnClick.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Animation/BounceOnClick.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding>
-                <marker date="1533018527193" expanded="false" signature="6:78" ph="..." />
-                <marker date="1533018527193" expanded="true" signature="122:317" ph="{...}" />
-                <marker date="1533018527193" expanded="true" signature="178:232" ph="{...}" />
-                <marker date="1533018527193" expanded="true" signature="264:315" ph="{...}" />
+                <marker date="1533078154120" expanded="false" signature="6:78" ph="..." />
+                <marker date="1533078154120" expanded="true" signature="122:417" ph="{...}" />
+                <marker date="1533078154120" expanded="true" signature="178:232" ph="{...}" />
+                <marker date="1533078154120" expanded="true" signature="264:315" ph="{...}" />
+                <marker date="1533078154120" expanded="true" signature="364:415" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -315,12 +315,12 @@
       <workItem from="1530572534018" duration="9369000" />
       <workItem from="1532994358103" duration="773000" />
       <workItem from="1532997200152" duration="3227000" />
-      <workItem from="1533018368127" duration="758000" />
+      <workItem from="1533018368127" duration="780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50469000" />
+    <option name="totallyTimeSpent" value="50491000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -332,7 +332,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -702,13 +702,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Animation/BounceOnClick.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
-            <marker date="1533018527193" expanded="false" signature="6:78" ph="..." />
-            <marker date="1533018527193" expanded="true" signature="122:317" ph="{...}" />
-            <marker date="1533018527193" expanded="true" signature="178:232" ph="{...}" />
-            <marker date="1533018527193" expanded="true" signature="264:315" ph="{...}" />
+            <marker date="1533078154120" expanded="false" signature="6:78" ph="..." />
+            <marker date="1533078154120" expanded="true" signature="122:417" ph="{...}" />
+            <marker date="1533078154120" expanded="true" signature="178:232" ph="{...}" />
+            <marker date="1533078154120" expanded="true" signature="264:315" ph="{...}" />
+            <marker date="1533078154120" expanded="true" signature="364:415" ph="{...}" />
           </folding>
         </state>
       </provider>
