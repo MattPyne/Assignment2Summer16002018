@@ -13,6 +13,9 @@
           <e p="AiSpawner.cs" t="Include" />
           <e p="MoveEneny.cs" t="Include" />
         </e>
+        <e p="Animation" t="Include">
+          <e p="BounceOnClick.cs" t="Include" />
+        </e>
         <e p="GunFolder" t="Include">
           <e p="GunCollection.cs" t="Include" />
           <e p="GunObjects.cs" t="Include" />

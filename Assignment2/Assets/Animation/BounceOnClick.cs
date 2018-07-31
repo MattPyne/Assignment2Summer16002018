@@ -1,0 +1,18 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class BounceOnClick : MonoBehaviour
+{
+    private Animator anims;
+
+    private void Start()
+    {
+        anims = GetComponent<Animator>();
+    }
+
+    private void OnMouseDown()
+    {
+        anims.SetTrigger("CanBounce");
+    }
+}
