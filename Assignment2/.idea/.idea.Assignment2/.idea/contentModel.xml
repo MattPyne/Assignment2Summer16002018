@@ -10,6 +10,7 @@
         <e p="AI Folder" t="Include">
           <e p="AIControll.cs" t="Include" />
           <e p="AIMovement.cs" t="Include" />
+          <e p="AiSpawner.cs" t="Include" />
           <e p="MoveEneny.cs" t="Include" />
         </e>
         <e p="GunFolder" t="Include">
