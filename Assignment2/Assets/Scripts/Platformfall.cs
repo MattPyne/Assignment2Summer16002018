@@ -12,7 +12,7 @@ public class Platformfall : MonoBehaviour
 		if (col.gameObject.tag == "Player")
 		{
 			Debug.Log("Collision function Entered");
-			Invoke("FallDown", 1f);
+			Invoke("FallDown", 0.8f);
 		}
 		
 		     
@@ -20,7 +20,7 @@ public class Platformfall : MonoBehaviour
 	private void FallDown()
 	{
 		this.GetComponentInParent<Rigidbody>().isKinematic = false;
-		
+		Destroy(this.transform.parent.gameObject, 2f);
 	}
 
 	
