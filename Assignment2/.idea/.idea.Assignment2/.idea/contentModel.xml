@@ -24,6 +24,7 @@
           <e p="Guns.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="ClickPlayerController.cs" t="Include" />
           <e p="CoinUI.cs" t="Include" />
           <e p="DoSubrtaction.cs" t="Include" />
           <e p="EnemyMoveBehavior.cs" t="Include" />
@@ -37,6 +38,7 @@
           <e p="Level.cs" t="Include" />
           <e p="MainMenuBehavior.cs" t="Include" />
           <e p="MovePlayer.cs" t="Include" />
+          <e p="Platformfall.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="PlayerBehavior.cs" t="Include" />
           <e p="PlayerTrigger.cs" t="Include" />

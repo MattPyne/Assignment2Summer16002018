@@ -16,7 +16,7 @@ public class GameManager : MonoBehaviour
 	{
 		size = Platform.transform.localScale.x;
 		lastPos = Platform.transform.position;
-		for (int x = 0; x < 18; x++)
+		for (int x = 0; x < 24; x++)
 		{
 			SpawnZ();
 		}
