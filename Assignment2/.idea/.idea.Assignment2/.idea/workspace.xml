@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915083a0-d0cb-4dc6-82ac-86a229a81dfd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Final Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Final Game.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MovePlayer.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MovePlayer.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -70,6 +70,23 @@
                 <marker date="1529204931232" expanded="true" signature="478:799" ph="{...}" />
                 <marker date="1529204931232" expanded="true" signature="543:581" ph="{...}" />
                 <marker date="1529204931232" expanded="true" signature="627:747" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameManager.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/GameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding>
+                <marker date="1533600693994" expanded="false" signature="6:78" ph="..." />
+                <marker date="1533600693994" expanded="true" signature="120:296" ph="{...}" />
+                <marker date="1533600693994" expanded="true" signature="159:166" ph="{...}" />
+                <marker date="1533600693994" expanded="true" signature="221:228" ph="{...}" />
+                <marker date="1533600693994" expanded="true" signature="252:261" ph="{...}" />
+                <marker date="1533600693994" expanded="true" signature="285:294" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -117,6 +134,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapons.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Animation/BounceOnClick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DoSubrtaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Level.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FireAmmo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUpOrDownBase.cs" root0="FORCE_HIGHLIGHTING" />
@@ -160,6 +178,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Animation/BounceOnClick.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoinUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
       </list>
     </option>
   </component>
@@ -172,7 +191,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="95" />
     <option name="y" value="70" />
     <option name="width" value="1750" />
@@ -250,12 +269,12 @@
       <workItem from="1533018368127" duration="1213000" />
       <workItem from="1533078910783" duration="80000" />
       <workItem from="1533079544909" duration="2152000" />
-      <workItem from="1533599152886" duration="599000" />
+      <workItem from="1533599152886" duration="810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53755000" />
+    <option name="totallyTimeSpent" value="53966000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -267,7 +286,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="56" width="1400" height="882" extended-state="1" />
+    <frame x="76" y="56" width="1400" height="882" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -303,13 +322,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerTrigger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -609,6 +621,21 @@
             <marker date="1533081227132" expanded="false" signature="6:78" ph="..." />
             <marker date="1533081227132" expanded="true" signature="137:271" ph="{...}" />
             <marker date="1533081227132" expanded="true" signature="211:269" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <marker date="1533600693994" expanded="false" signature="6:78" ph="..." />
+            <marker date="1533600693994" expanded="true" signature="120:296" ph="{...}" />
+            <marker date="1533600693994" expanded="true" signature="159:166" ph="{...}" />
+            <marker date="1533600693994" expanded="true" signature="221:228" ph="{...}" />
+            <marker date="1533600693994" expanded="true" signature="252:261" ph="{...}" />
+            <marker date="1533600693994" expanded="true" signature="285:294" ph="{...}" />
           </folding>
         </state>
       </provider>

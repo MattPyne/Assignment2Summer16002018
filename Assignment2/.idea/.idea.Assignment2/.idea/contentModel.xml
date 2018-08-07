@@ -16,6 +16,7 @@
         <e p="Animation" t="Include">
           <e p="BounceOnClick.cs" t="Include" />
         </e>
+        <e p="GameManager.cs" t="Include" />
         <e p="GunFolder" t="Include">
           <e p="GunCollection.cs" t="Include" />
           <e p="GunObjects.cs" t="Include" />
