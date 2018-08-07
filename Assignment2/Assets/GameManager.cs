@@ -16,15 +16,26 @@ public class GameManager : MonoBehaviour
 	{
 		size = Platform.transform.localScale.x;
 		lastPos = Platform.transform.position;
-		for (int x = 0; x < 25; x++)
+		for (int x = 0; x < 18; x++)
 		{
 			SpawnZ();
 		}
+		InvokeRepeating("spawnPlatform", 2f, 0.2f);
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		
+	}
+
+	private void spawnPlatform()
+	{
+		int random = Random.Range(0, 6);
+		if (random <3)
+			SpawnX();
+		
+		if (random >= 3)
+			SpawnZ();
 	}
 
 	private void SpawnX()
