@@ -31,6 +31,7 @@
           <e p="FireAmmo.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameManager.cs" t="Include" />
+          <e p="GemParticle.cs" t="Include" />
           <e p="HealthBarBehavior.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="IntData.cs" t="Include" />

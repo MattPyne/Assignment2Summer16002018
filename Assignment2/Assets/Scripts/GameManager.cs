@@ -10,6 +10,9 @@ public class GameManager : MonoBehaviour
 	[SerializeField] 
 	GameObject Platform;
 
+	[SerializeField] 
+	GameObject gems;
+
 	private Vector3 lastPos;
 	
 	void Start ()
@@ -31,11 +34,21 @@ public class GameManager : MonoBehaviour
 	private void spawnPlatform()
 	{
 		int random = Random.Range(0, 6);
+		int randomgems = Random.Range(0, 8);
 		if (random <3)
 			SpawnX();
 		
 		if (random >= 3)
 			SpawnZ();
+
+		if (randomgems < 2)
+			spawnGems();
+		
+	}
+
+	private void spawnGems()
+	{
+		Instantiate(gems, lastPos + new Vector3(0f,0.7f, 0f), gems.transform.rotation);
 	}
 
 	private void SpawnX()

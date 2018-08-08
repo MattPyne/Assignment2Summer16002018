@@ -37,5 +37,13 @@ public class MovePlayer : MonoBehaviour
 		}
 		controller.Move(newPosition * Time.deltaTime);
 	}
+
+	private void OnTriggerEnter(Collider col)
+	{
+		if (col.gameObject.tag == "Gems")
+		{
+			Destroy(col.gameObject);
+			
+		}
+	}
 }
-//the camera position keeps putting either the horizontal or vertical controls backwards currently its the horizontal controls
