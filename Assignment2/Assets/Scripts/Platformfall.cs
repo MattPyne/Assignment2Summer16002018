@@ -12,7 +12,7 @@ public class Platformfall : MonoBehaviour
 		if (col.gameObject.tag == "Player")
 		{
 			Debug.Log("Collision function Entered");
-			Invoke("FallDown", 0.8f);
+			Invoke("FallDown", 0.6f);
 		}
 		
 		     

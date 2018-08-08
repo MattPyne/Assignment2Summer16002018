@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MovePlayer : MonoBehaviour
 {
+	public IntData CoinCollection;
 	private CharacterController controller;
 	private Vector3 newPosition;
 
@@ -43,7 +44,8 @@ public class MovePlayer : MonoBehaviour
 		if (col.gameObject.tag == "Gems")
 		{
 			Destroy(col.gameObject);
-			
+			CoinCollection.Value++;
+
 		}
 	}
 }

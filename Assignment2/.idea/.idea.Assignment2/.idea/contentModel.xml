@@ -22,9 +22,11 @@
           <e p="GunPickUp.cs" t="Include" />
           <e p="Guns.cs" t="Include" />
         </e>
+        <e p="Prefabs" t="Include">
+          <e p="CoinUI.cs" t="Include" />
+        </e>
         <e p="Scripts" t="Include">
           <e p="ClickPlayerController.cs" t="Include" />
-          <e p="CoinUI.cs" t="Include" />
           <e p="DoSubrtaction.cs" t="Include" />
           <e p="EnemyMoveBehavior.cs" t="Include" />
           <e p="EvilPlayerMoveBehavior.cs" t="Include" />
