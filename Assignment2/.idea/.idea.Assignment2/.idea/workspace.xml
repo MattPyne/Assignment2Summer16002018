@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="915083a0-d0cb-4dc6-82ac-86a229a81dfd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Final Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Final Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CoinUI.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CoinUI.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Platformfall.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Platformfall.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FINAL GAME/Final Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FINAL GAME/Final Game.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="587">
-              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <marker date="1533689700276" expanded="false" signature="6:78" ph="..." />
                 <marker date="1533689700276" expanded="true" signature="119:983" ph="{...}" />
@@ -118,17 +112,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Platformfall.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Platformfall.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Platformfall.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <marker date="1533690336861" expanded="false" signature="6:78" ph="..." />
                 <marker date="1533690336861" expanded="true" signature="121:488" ph="{...}" />
                 <marker date="1533690336861" expanded="true" signature="162:341" ph="{...}" />
                 <marker date="1533690336861" expanded="true" signature="246:327" ph="{...}" />
                 <marker date="1533690336861" expanded="true" signature="366:483" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnemyMoveBehavior.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMoveBehavior.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1529098436599" expanded="false" signature="6:78" ph="..." />
+                <marker date="1529098436599" expanded="true" signature="127:530" ph="{...}" />
+                <marker date="1529098436599" expanded="true" signature="256:528" ph="{...}" />
+                <marker date="1529098436599" expanded="true" signature="313:477" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -240,7 +248,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="81" />
     <option name="y" value="35" />
     <option name="width" value="1750" />
@@ -318,12 +326,12 @@
       <workItem from="1533018368127" duration="1213000" />
       <workItem from="1533078910783" duration="80000" />
       <workItem from="1533079544909" duration="2152000" />
-      <workItem from="1533599152886" duration="13088000" />
+      <workItem from="1533599152886" duration="13686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66244000" />
+    <option name="totallyTimeSpent" value="66842000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,7 +343,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -469,13 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMoveBehavior.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -677,7 +678,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="587">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <marker date="1533689700276" expanded="false" signature="6:78" ph="..." />
             <marker date="1533689700276" expanded="true" signature="119:983" ph="{...}" />
@@ -712,13 +713,25 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Platformfall.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <marker date="1533690336861" expanded="false" signature="6:78" ph="..." />
             <marker date="1533690336861" expanded="true" signature="121:488" ph="{...}" />
             <marker date="1533690336861" expanded="true" signature="162:341" ph="{...}" />
             <marker date="1533690336861" expanded="true" signature="246:327" ph="{...}" />
             <marker date="1533690336861" expanded="true" signature="366:483" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMoveBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1529098436599" expanded="false" signature="6:78" ph="..." />
+            <marker date="1529098436599" expanded="true" signature="127:530" ph="{...}" />
+            <marker date="1529098436599" expanded="true" signature="256:528" ph="{...}" />
+            <marker date="1529098436599" expanded="true" signature="313:477" ph="{...}" />
           </folding>
         </state>
       </provider>
